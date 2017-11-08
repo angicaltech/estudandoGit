@@ -1,5 +1,5 @@
-Início da progressão 1 em Git
-Alteração da progressão 01 usando Git
-alteração 3 LEONARDO
-alteração 4
-bbbb
+InÃ­cio da progressÃ£o 1 em Git
+AlteraÃ§Ã£o da progressÃ£o 01 usando Git
+alteraÃ§Ã£o 3 LEONARDO
+alteraÃ§Ã£o 4
+alteraÃ§Ã£o 5
